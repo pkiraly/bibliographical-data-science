@@ -12,7 +12,7 @@ It will create `target/metadata-qa-openaire-0.1-SNAPSHOT-jar-with-dependencies.j
 
 1. Prerequisite
 
-Install Apache Spark
+Install [Apache Spark](https://spark.apache.org/)
 
 2. Run calculation
 
